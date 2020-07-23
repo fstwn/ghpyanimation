@@ -13,9 +13,3 @@ There are actually several reasons for this:
 - I am a nerd and I like full control.
 - I think there should be a lot more open-source software.
 - It's a great way to teach the basic concepts of coding Python inside Rhinoceros / Grasshopper.
-
-## Examples
-
-All animations in the following video were made using this toolkit. The physical simulation was done using [Kangaroo2](https://www.rhino3d.com/6/new/grasshopper#kangaroo).
-
-[![Digitaler Workflow – Textil / Beton / Parametrik – Trailer](http://img.youtube.com/vi/ijLhMLUWhM4/0.jpg)](http://www.youtube.com/watch?v=ijLhMLUWhM4)
